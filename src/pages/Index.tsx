@@ -92,7 +92,7 @@ const Index = () => {
                 <div className="absolute inset-0 bg-cyan-500/5"></div>
                 <Icon name="Waves" size={20} className="text-cyan-400 relative z-10" />
               </div>
-              <span className="text-lg font-semibold text-white tracking-wide">ГИДРОПРОЕКТ</span>
+              <span className="text-lg font-semibold text-white tracking-wide">GIDROTEX.RU</span>
             </div>
             <div className="hidden md:flex items-center gap-8">
               <a href="#services" className="text-xs text-slate-400 hover:text-cyan-400 transition-colors uppercase tracking-widest">
@@ -295,7 +295,7 @@ const Index = () => {
                 </div>
                 <div className="border-l-2 border-cyan-500 pl-6">
                   <h3 className="text-xs text-cyan-400 mb-2 uppercase tracking-widest">Email</h3>
-                  <p className="text-xl text-white font-light">info@gidroproekt.ru</p>
+                  <p className="text-xl text-white font-light">info@gidrotex.ru</p>
                 </div>
                 <div className="border-l-2 border-cyan-500 pl-6">
                   <h3 className="text-xs text-cyan-400 mb-2 uppercase tracking-widest">Адрес</h3>
@@ -318,7 +318,7 @@ const Index = () => {
               <div className="w-8 h-8 border border-cyan-500/30 flex items-center justify-center bg-cyan-500/5">
                 <Icon name="Waves" size={16} className="text-cyan-400" />
               </div>
-              <span className="text-sm font-semibold text-white tracking-wider">ГИДРОПРОЕКТ</span>
+              <span className="text-sm font-semibold text-white tracking-wider">GIDROTEX.RU</span>
             </div>
             <p className="text-xs text-slate-500 uppercase tracking-wider">© 2024 Все права защищены</p>
           </div>
